@@ -1,0 +1,11 @@
+text_files:  # 注意这里使用下划线
+  - category: "Documentation"
+    extensions: ["txt", "md", "rst"]
+  - category: "Source Code"
+    extensions: ["java", "kt", "kts", "py", "rb", "php", "go", "rs", "c", "cpp", "h", "hpp", "cs", "scala"]
+  - category: "Web"
+    extensions: ["html", "css", "js", "ts", "jsx", "tsx"]
+  - category: "Configuration"
+    extensions: ["xml", "json", "yaml", "yml", "properties", "conf", "config", "ini", "toml"]
+  - category: "Scripts"
+    extensions: ["sh", "bat", "cmd"]
